@@ -20,7 +20,7 @@ Me chamo davi rodrigues , tenho 20 anos e sou natural campo grande mato grosso d
   <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Davi-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="Davi-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
- 
+ </p>
 </div>
 
 <br/>
